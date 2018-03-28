@@ -1,0 +1,62 @@
+20 25 0 12_______CC image header
+12_______Number of Components 
+
+1______CC label #1
+20_______Number of Pixels in CC #1
+0 7_____upper left most pixel of the bounding box of CC #1
+9 8_____lower right most pixel of the bounding box of CC #1
+
+2______CC label #2
+5_______Number of Pixels in CC #2
+0 24_____upper left most pixel of the bounding box of CC #2
+4 24_____lower right most pixel of the bounding box of CC #2
+
+3______CC label #3
+40_______Number of Pixels in CC #3
+1 0_____upper left most pixel of the bounding box of CC #3
+14 4_____lower right most pixel of the bounding box of CC #3
+
+4______CC label #4
+47_______Number of Pixels in CC #4
+1 12_____upper left most pixel of the bounding box of CC #4
+14 16_____lower right most pixel of the bounding box of CC #4
+
+5______CC label #5
+8_______Number of Pixels in CC #5
+2 10_____upper left most pixel of the bounding box of CC #5
+9 10_____lower right most pixel of the bounding box of CC #5
+
+6______CC label #6
+18_______Number of Pixels in CC #6
+2 19_____upper left most pixel of the bounding box of CC #6
+9 21_____lower right most pixel of the bounding box of CC #6
+
+7______CC label #7
+22_______Number of Pixels in CC #7
+7 18_____upper left most pixel of the bounding box of CC #7
+18 24_____lower right most pixel of the bounding box of CC #7
+
+8______CC label #8
+43_______Number of Pixels in CC #8
+11 1_____upper left most pixel of the bounding box of CC #8
+19 8_____lower right most pixel of the bounding box of CC #8
+
+9______CC label #9
+21_______Number of Pixels in CC #9
+14 10_____upper left most pixel of the bounding box of CC #9
+19 16_____lower right most pixel of the bounding box of CC #9
+
+10______CC label #10
+1_______Number of Pixels in CC #10
+14 12_____upper left most pixel of the bounding box of CC #10
+14 12_____lower right most pixel of the bounding box of CC #10
+
+11______CC label #11
+1_______Number of Pixels in CC #11
+14 19_____upper left most pixel of the bounding box of CC #11
+14 19_____lower right most pixel of the bounding box of CC #11
+
+12______CC label #12
+8_______Number of Pixels in CC #12
+17 19_____upper left most pixel of the bounding box of CC #12
+19 21_____lower right most pixel of the bounding box of CC #12
